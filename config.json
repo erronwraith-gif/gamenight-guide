@@ -1,0 +1,23 @@
+{
+  "_README": "PLACEHOLDERS ONLY. None of these are real affiliate IDs or endpoints. Replace each 'PLACEHOLDER_*' value after Dad approves and joins the program. Set a link to null to show a plain (non-affiliate) link to the service's homepage.",
+  "site_name": "GameNight Guide",
+  "site_url": "PLACEHOLDER_SITE_URL",
+  "newsletter_endpoint": "PLACEHOLDER_NEWSLETTER_FORM_ACTION_URL",
+  "affiliate_links": {
+    "fubo":        {"label": "Fubo",            "home": "https://www.fubo.tv/",            "affiliate_url": "PLACEHOLDER_FUBO_AFFILIATE_URL"},
+    "youtubetv":   {"label": "YouTube TV",      "home": "https://tv.youtube.com/",         "affiliate_url": "PLACEHOLDER_YOUTUBETV_AFFILIATE_URL"},
+    "sundayticket":{"label": "NFL Sunday Ticket","home": "https://tv.youtube.com/learn/nflsundayticket/", "affiliate_url": "PLACEHOLDER_SUNDAYTICKET_AFFILIATE_URL"},
+    "sling":       {"label": "Sling TV",        "home": "https://www.sling.com/",          "affiliate_url": "PLACEHOLDER_SLING_AFFILIATE_URL"},
+    "hululive":    {"label": "Hulu + Live TV",  "home": "https://www.hulu.com/live-tv",    "affiliate_url": "PLACEHOLDER_HULULIVE_AFFILIATE_URL"},
+    "prime":       {"label": "Prime Video",     "home": "https://www.amazon.com/primevideo","affiliate_url": "PLACEHOLDER_AMAZON_ASSOCIATES_URL"},
+    "peacock":     {"label": "Peacock",         "home": "https://www.peacocktv.com/",      "affiliate_url": "PLACEHOLDER_PEACOCK_AFFILIATE_URL"},
+    "espn":        {"label": "ESPN app",        "home": "https://www.espn.com/watch/",     "affiliate_url": "PLACEHOLDER_ESPN_AFFILIATE_URL"},
+    "netflix":     {"label": "Netflix",         "home": "https://www.netflix.com/",        "affiliate_url": null},
+    "paramount":   {"label": "Paramount+",      "home": "https://www.paramountplus.com/",  "affiliate_url": "PLACEHOLDER_PARAMOUNTPLUS_AFFILIATE_URL"},
+    "foxone":      {"label": "FOX One",         "home": "https://www.foxone.com/",         "affiliate_url": "PLACEHOLDER_FOXONE_AFFILIATE_URL"},
+    "leaguepass":  {"label": "NBA League Pass", "home": "https://www.nba.com/watch/league-pass-stream", "affiliate_url": "PLACEHOLDER_LEAGUEPASS_AFFILIATE_URL"},
+    "dazn":        {"label": "DAZN",            "home": "https://www.dazn.com/",           "affiliate_url": "PLACEHOLDER_DAZN_AFFILIATE_URL"},
+    "antenna":     {"label": "an HD antenna",   "home": "https://www.amazon.com/s?k=hd+tv+antenna", "affiliate_url": "PLACEHOLDER_AMAZON_ASSOCIATES_ANTENNA_URL"},
+    "fantasypros": {"label": "FantasyPros",     "home": "https://www.fantasypros.com/",    "affiliate_url": "PLACEHOLDER_FANTASYPROS_AFFILIATE_URL"}
+  }
+}
